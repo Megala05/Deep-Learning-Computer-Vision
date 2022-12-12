@@ -1,0 +1,10 @@
+Language Used: Python (Jupyter Notebook)
+
+Requirements:
+numpy
+matplotlib
+cv2
+pandas
+tensorflow
+natsort
+keras
